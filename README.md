@@ -7,11 +7,11 @@ Code is based off of WGET code sample found here: https://community.netgear.com/
   NetgearRouterReboot [options]
 
 Options:
-  --username <username>      This is the username for your Netgear router login. The default on most routers is admin.
-  --password <password>      This is your password for your Netgear router login.
-  --ipaddress <ipaddress>    This is the address of your Netgear router on your network. Typically this is something like 192.168.1.1 or 192.168.0.1 [default: 192.168.1.1]
-  --version                  Show version information
-  -?, -h, --help             Show help and usage information
+  * --username <username>      This is the username for your Netgear router login. The default on most routers is admin.
+  * --password <password>      This is your password for your Netgear router login.
+  * --ipaddress <ipaddress>    This is the address of your Netgear router on your network. Typically this is something like 192.168.1.1 or * 192.168.0.1 [default: 192.168.1.1]
+  * --version                  Show version information
+  * -?, -h, --help             Show help and usage information
   
   ### Example
   `NetgearRouterReboot.exe --username admin --password MyRouterPassword --ipaddress 192.168.1.1`
