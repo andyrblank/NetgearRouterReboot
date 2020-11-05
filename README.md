@@ -19,3 +19,6 @@ Options:
   # Windows(x86) Binary Download
   This is a self-contained exe for the Netgear Router Reboot: [NetgearRouterReboot.zip](https://drive.google.com/file/d/1EDlEAjJKgskf1HnSpSdaUKcDNHSzUlKc/view?usp=sharing)
   
+  # Known working routers
+  Netgear R7000P Firmware Version V1.3.2.124_10.1.64
+  
